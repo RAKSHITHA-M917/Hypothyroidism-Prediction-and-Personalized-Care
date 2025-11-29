@@ -1,0 +1,19 @@
+
+==============================
+🩺 HYPOTHYROID PATIENT REPORT
+==============================
+Name: rakshitha
+Age: 43
+Gender: female
+Pregnant: no
+Location: mysore
+Date & Time: 2025-11-06 14:11:57
+------------------------------
+Sugar Level: 300.0 mg/dL
+Blood Pressure: 120.0/80.0 mm Hg
+TSH: 6.8
+T3: 8.6
+TT4: 4.8
+------------------------------
+Predicted Result: {'Name': 'rakshitha', 'Predicted_Level': 'Unknown', 'Confidence': '41.00%'}
+==============================
